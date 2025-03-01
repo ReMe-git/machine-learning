@@ -1,4 +1,4 @@
-from mlwpy.mlwpy import *
+from mlwpy import *
 from ucimlrepo import fetch_ucirepo
 
 # 加载heart_disease数据集

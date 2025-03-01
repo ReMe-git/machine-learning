@@ -1,5 +1,5 @@
 # 使用iris数据库进行分类学习
-from mlwpy.mlwpy import *
+from mlwpy import *
 
 # 导入iris数据库并显示具体信息
 iris = datasets.load_iris()

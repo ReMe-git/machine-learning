@@ -1,5 +1,5 @@
 # 使用breast_cancer数据库进行分类学习
-from mlwpy.mlwpy import *
+from mlwpy import *
 
 # 导入breast_cancer数据库并显示具体信息
 breast_cancer = datasets.load_breast_cancer()

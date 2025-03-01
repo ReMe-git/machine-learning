@@ -1,5 +1,5 @@
 # 使用wine数据库进行分类学习
-from mlwpy.mlwpy import *
+from mlwpy import *
 
 # 导入wine数据库并显示具体信息
 wine = datasets.load_wine()
